@@ -1,7 +1,5 @@
 Krystian Cwiklinski
 pointery w C
 instrukcje na pudelkach na pizzy
-<<<<<<< HEAD
 kolor czarny
-=======
->>>>>>> ce0c9f6 (dodanie czasopisma)
+
