@@ -1,1 +1,2 @@
 Krystian Cwiklinski
+pointery w C
