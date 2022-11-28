@@ -1,3 +1,4 @@
 Krystian Cwiklinski
 pointery w C
 instrukcje na pudelkach na pizzy
+kolor czarny
